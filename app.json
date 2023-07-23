@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/IRONMAN444FF/Jarvis-md",
+  "repository": "https://github.com/h4ck666/hermit-mod",
   "stack": "container",
   "env": {
     "SESSION_ID": {
